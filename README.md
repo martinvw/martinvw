@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![MartinvW's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinvw&count_private=true&theme=darcula&show_icons=true)
+![MartinvW's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinvw&count_private=true&show_icons=true)
 
 [[source]](https://github.com/anuraghazra/github-readme-stats)
 
